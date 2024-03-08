@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zfQpvMGukKt7u96ZDULtrWXLRGvwQhhpDLZ8mvMYnGg=",
+  "Source": "FakeFICOAPI",
+  "BasePath": "_content/FakeFICOAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

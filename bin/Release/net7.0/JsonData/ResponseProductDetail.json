@@ -1,0 +1,453 @@
+
+   {
+     "application": {
+       "requestDetail": {
+         "callType": "GET_ELIGIBLE_PRODUCTS"
+       },
+       "applicationDetails": {
+         "channel": "MB",
+         "leadRefNumber": "CSLO_MB_231214_c0b99d5e-7cd1-42b7-8b2f-ab0c403b66a5"
+       },
+       "applicants": [
+         {
+           "person": {
+             "dateOfBirth": "2000-01-01",
+             "idType": "CI",
+             "issueDate": "2000-01-01",
+             "nationality": "TH",
+             "bblIalCode": "21",
+             "allocationCode": "R",
+             "preScreenedOrLead": false,
+             "idIssueDate": "2000-01-01"
+           },
+           "customerKYCDetail": {
+             "kycStatus": "C",
+             "riskLevel": ""
+           }
+         }
+       ],
+       "suggestedProducts":[
+        {
+          "facilityCategory": "CC",
+          "productNameTH": "บัตรเครดิตไทเทเนียม โรงพยาบาลรามาธิบดี ธนาคารกรุงเทพ",
+          "productNameEN": "Bangkok Bank Titanium Ramathibodi Hospital CreditCard",
+          "productShortNameTH": "",
+          "productShortNameEN": "",
+          "productCode": "CC13",
+          "productDesc": "บัตรเครดิต",
+          "saleSheet": "https://www-u.bangkokbank.com/-/media/files/personal/cards/creditcard/Document%20Download/CreditCard_SalesSheet.pdf",
+          "productCatalog": "https://www.bangkokbank.com/th-TH/Personal/Cards/Credit-Cards",
+          "compareTableLink": "https://www.bangkokbank.com/th-TH/Personal/Cards/Credit-Cards",
+          "preApprovedFlag": "false",
+          "firstEffectiveDate": "2000-01-01",
+          "lastEffectiveDate": "2000-01-01",
+          "ddrRequired": "",
+          "minDDRRepaymentPercentage": 0,
+          "minDDRRepayment": 0,
+          "minAllowAge": 20,
+          "maxAllowAge": 60,
+          "minimumSalary": 15000,
+          "minRequestLoan": 0,
+          "maxRequestLoan": 0,
+          "systemRecommendedMaxLoan": 0,
+          "additonalFee": [
+            {
+              "feeType": "PrimaryCardAdditionalFee",
+              "feeUnit": "baht",
+              "feeValue": 0
+            },
+            {
+              "feeType": "SupplementaryCardAdditionalFee",
+              "feeUnit": "baht",
+              "feeValue": 0
+            },
+            {
+              "feeType": "EntranceFee",
+              "feeUnit": "baht",
+              "feeValue": 0
+            }
+          ],
+          "repaymentPeriod": [
+            {
+              "tentativeApprovedAmount": 0,
+              "tentativeLoanPeriod": 0,
+              "tentativeMI": 0,
+              "tentativeTotalRepayment": 0
+            }
+          ],
+          "interestRates": [
+            {
+              "segment": "",
+              "rateType": "",
+              "minAmount": 0,
+              "maxAmount": 0,
+              "calculatedRate": 0,
+              "minRate": 0,
+              "maxRate": 0
+            }
+          ],
+          "multiplierRequestedLoans": [
+            {
+              "minIncome": 0,
+              "maxIncome": 0,
+              "multiplier": 0,
+              "listCategory": ""
+            }
+          ],
+          "categories": [
+            {
+              "category": "ทั้งหมด"
+            },
+            {
+              "category": "สุขภาพ"
+            }
+          ],
+          "benefits": [
+            {
+              "benefitCode": "รับเงินคืนสูงสุด 2% จากยอดรวมค่าใช้จ่ายผ่านบัตร สูงสุดไม่เกิน 2,000 บาท/รอบบัญชี"
+            },
+            {
+              "benefitCode": "ธนาคารกรุงเทพร่วมบริจาค 0.2% จากทุกยอดใช้จ่ายผ่านบัตรให้แก่คณะแพทยศาสตร์ โรงพยาบาลรามาธิบดี"
+            },
+            {
+              "benefitCode": "แผนประกันอุบัติเหตุการเดินทาง วงเงินคุ้มครองสูงสุด 3,000,000 บาท"
+            },
+            {
+              "benefitCode": "บริการผู้ช่วยส่วนบุคคล 24 ชั่วโมง"
+            }
+          ],
+          "decision": {
+            "isAutoReject": false,
+            "overrideFlag": false,
+            "recommendedCreditDecision": "",
+            "finalReasonCode": "",
+            "finalAuthorityLevel": 0,
+            "uwEmpowermentLevel": 0
+          }
+        },
+        {
+          "facilityCategory": "CC",
+          "productNameTH": "บัตรไทเทเนียม ธนาคารกรุงเทพ",
+          "productNameEN": "Bangkok Bank Titanium Credit Card",
+          "productShortNameTH": "",
+          "productShortNameEN": "",
+          "productCode": "CC07",
+          "productDesc": "บัตรเครดิต",
+          "saleSheet": "https://www-u.bangkokbank.com/-/media/files/personal/cards/creditcard/Document%20Download/CreditCard_SalesSheet.pdf",
+          "productCatalog": "https://www.bangkokbank.com/th-TH/Personal/Cards/Credit-Cards",
+          "compareTableLink": "https://www.bangkokbank.com/th-TH/Personal/Cards/Credit-Cards",
+          "preApprovedFlag": "false",
+          "firstEffectiveDate": "2000-01-01",
+          "lastEffectiveDate": "2000-01-01",
+          "ddrRequired": "",
+          "minDDRRepaymentPercentage": 0,
+          "minDDRRepayment": 0,
+          "minAllowAge": 20,
+          "maxAllowAge": 60,
+          "minimumSalary": 15000,
+          "minRequestLoan": 0,
+          "maxRequestLoan": 0,
+          "systemRecommendedMaxLoan": 0,
+          "additonalFee": [
+            {
+              "feeType": "PrimaryCardAdditionalFee",
+              "feeUnit": "baht",
+              "feeValue": 0
+            },
+            {
+              "feeType": "SupplementaryCardAdditionalFee",
+              "feeUnit": "baht",
+              "feeValue": 0
+            },
+            {
+              "feeType": "EntranceFee",
+              "feeUnit": "baht",
+              "feeValue": 0
+            }
+          ],
+          "repaymentPeriod": [
+            {
+              "tentativeApprovedAmount": 0,
+              "tentativeLoanPeriod": 0,
+              "tentativeMI": 0,
+              "tentativeTotalRepayment": 0
+            }
+          ],
+          "interestRates": [
+            {
+              "segment": "",
+              "rateType": "",
+              "minAmount": 0,
+              "maxAmount": 0,
+              "calculatedRate": 0,
+              "minRate": 0,
+              "maxRate": 0
+            }
+          ],
+          "multiplierRequestedLoans": [
+            {
+              "minIncome": 0,
+              "maxIncome": 0,
+              "multiplier": 0,
+              "listCategory": ""
+            }
+          ],
+          "categories": [
+            {
+              "category": "ทั้งหมด"
+            },
+            {
+              "category": "ไลฟ์สไตล์"
+            }
+          ],
+          "benefits": [
+            {
+              "benefitCode": "รับเงินคืนสูงสุด 2% จากยอดรวมค่าใช้จ่ายผ่านบัตร สูงสุดไม่เกิน 2,000 บาท/รอบบัญชี"
+            },
+            {
+              "benefitCode": "แผนประกันอุบัติเหตุการเดินทาง วงเงินคุ้มครองสูงสุด 3,000,000 บาท"
+            },
+            {
+              "benefitCode": "บริการผู้ช่วยส่วนบุคคลตลอด 24 ชั่วโมง"
+            }
+          ],
+          "decision": {
+            "isAutoReject": false,
+            "overrideFlag": false,
+            "recommendedCreditDecision": "",
+            "finalReasonCode": "",
+            "finalAuthorityLevel": 0,
+            "uwEmpowermentLevel": 0
+          }
+        },
+        {
+          "facilityCategory": "CC",
+          "productNameTH": "บัตรเครดิตธนาคารกรุงเทพ เอ็มลักซ์วีซ่าซิกเนเจอร์",
+          "productNameEN": "Bangkok Bank M Luxe Visa Signature",
+          "productShortNameTH": "",
+          "productShortNameEN": "",
+          "productCode": "CC27",
+          "productDesc": "บัตรเครดิต",
+          "saleSheet": "https://www-u.bangkokbank.com/-/media/files/personal/cards/creditcard/Document%20Download/CreditCard_SalesSheet.pdf",
+          "productCatalog": "https://www.bangkokbank.com/th-TH/Personal/Cards/Credit-Cards",
+          "compareTableLink": "https://www.bangkokbank.com/th-TH/Personal/Cards/Credit-Cards",
+          "preApprovedFlag": "false",
+          "firstEffectiveDate": "2000-01-01",
+          "lastEffectiveDate": "2000-01-01",
+          "ddrRequired": "",
+          "minDDRRepaymentPercentage": 0,
+          "minDDRRepayment": 0,
+          "minAllowAge": 20,
+          "maxAllowAge": 60,
+          "minimumSalary": 300000,
+          "minRequestLoan": 0,
+          "maxRequestLoan": 0,
+          "systemRecommendedMaxLoan": 0,
+          "additonalFee": [
+            {
+              "feeType": "PrimaryCardAdditionalFee",
+              "feeUnit": "baht",
+              "feeValue": 4000
+            },
+            {
+              "feeType": "SupplementaryCardAdditionalFee",
+              "feeUnit": "baht",
+              "feeValue": 0
+            },
+            {
+              "feeType": "EntranceFee",
+              "feeUnit": "baht",
+              "feeValue": 0
+            }
+          ],
+          "repaymentPeriod": [
+            {
+              "tentativeApprovedAmount": 0,
+              "tentativeLoanPeriod": 0,
+              "tentativeMI": 0,
+              "tentativeTotalRepayment": 0
+            }
+          ],
+          "interestRates": [
+            {
+              "segment": "",
+              "rateType": "",
+              "minAmount": 0,
+              "maxAmount": 0,
+              "calculatedRate": 0,
+              "minRate": 0,
+              "maxRate": 0
+            }
+          ],
+          "multiplierRequestedLoans": [
+            {
+              "minIncome": 0,
+              "maxIncome": 0,
+              "multiplier": 0,
+              "listCategory": ""
+            }
+          ],
+          "categories": [
+            {
+              "category": "ทั้งหมด"
+            },
+            {
+              "category": "สิทธิพิเศษ"
+            },
+            {
+              "category": "ไลฟ์สไตล์"
+            },
+            {
+              "category": "ช้อปปิ้ง"
+            }
+          ],
+          "benefits": [
+            {
+              "benefitCode": "รับส่วนลดสูงสุด 10% เมื่อใช้จ่ายผ่านบัตรที่ห้างฯ ในเครือเดอะมอลล์ กรุ๊ป"
+            },
+            {
+              "benefitCode": "ทุกการใช้จ่าย 25 บาท รับ 1 M Point"
+            },
+            {
+              "benefitCode": "รับคะแนน M Point สูงสุด 4 เท่า เมื่อช้อปที่ห้างฯ"
+            },
+            {
+              "benefitCode": "รับส่วนลดเพิ่มสูงสุด 25% เมื่อแลกคะแนน M Point 2 เท่าของยอดใช้จ่าย"
+            },
+            {
+              "benefitCode": "แลกคะแนน 800 M Point รับคูปองส่วนลดแทนเงินสด 100 บาท"
+            },
+            {
+              "benefitCode": "ผ่อนชำระ 0% นาน 6 เดือน เมื่อซื้อสินค้าที่ห้างฯ ผ่านบัตรตั้งแต่ 3,000 บาทขึ้นไป/เซลล์สลิป ทั้งนี้ ตามเงื่อนไขที่บริษัทฯ กำหนด"
+            },
+            {
+              "benefitCode": "บริการรถลีมูซีน รับ-ส่งสนามบิน และห้องรับรองสนามบิน (Airport Lounge)"
+            },
+            {
+              "benefitCode": "รายละเอียดเงื่อนไขเป็นไปตามที่ธนาคารและบริษัทฯ กำหนด"
+            }
+          ],
+          "decision": {
+            "isAutoReject": false,
+            "overrideFlag": false,
+            "recommendedCreditDecision": "",
+            "finalReasonCode": "",
+            "finalAuthorityLevel": 0,
+            "uwEmpowermentLevel": 0
+          }
+        },
+        {
+          "facilityCategory": "CC",
+          "productNameTH": "บัตรผู้นำแพลทินัม ธนาคารกรุงเทพ",
+          "productNameEN": "Bangkok Bank Platinum Leader Card",
+          "productShortNameTH": "",
+          "productShortNameEN": "",
+          "productCode": "CC03",
+          "productDesc": "บัตรเครดิต",
+          "saleSheet": "https://www.bangkokbank.com/th-TH/Personal/Cards/Credit-Cards",
+          "productCatalog": "https://www.bangkokbank.com/th-TH/Personal/Cards/Credit-Cards",
+          "compareTableLink": "https://www.bangkokbank.com/th-TH/Personal/Cards/Credit-Cards",
+          "preApprovedFlag": "false",
+          "firstEffectiveDate": "2000-01-01",
+          "lastEffectiveDate": "2000-01-01",
+          "ddrRequired": "",
+          "minDDRRepaymentPercentage": 0,
+          "minDDRRepayment": 0,
+          "minAllowAge": 20,
+          "maxAllowAge": 60,
+          "minimumSalary": 100000,
+          "minRequestLoan": 0,
+          "maxRequestLoan": 0,
+          "systemRecommendedMaxLoan": 0,
+          "additonalFee": [
+            {
+              "feeType": "PrimaryCardAdditionalFee",
+              "feeUnit": "baht",
+              "feeValue": 4000
+            },
+            {
+              "feeType": "SupplementaryCardAdditionalFee",
+              "feeUnit": "baht",
+              "feeValue": 2000
+            },
+            {
+              "feeType": "EntranceFee",
+              "feeUnit": "baht",
+              "feeValue": 0
+            }
+          ],
+          "repaymentPeriod": [
+            {
+              "tentativeApprovedAmount": 0,
+              "tentativeLoanPeriod": 0,
+              "tentativeMI": 0,
+              "tentativeTotalRepayment": 0
+            }
+          ],
+          "interestRates": [
+            {
+              "segment": "",
+              "rateType": "",
+              "minAmount": 0,
+              "maxAmount": 0,
+              "calculatedRate": 0,
+              "minRate": 0,
+              "maxRate": 0
+            }
+          ],
+          "multiplierRequestedLoans": [
+            {
+              "minIncome": 0,
+              "maxIncome": 0,
+              "multiplier": 0,
+              "listCategory": ""
+            }
+          ],
+          "categories": [
+            {
+              "category": "ทั้งหมด"
+            },
+            {
+              "category": "สิทธิพิเศษ"
+            },
+            {
+              "category": "ไลฟ์สไตล์"
+            }
+          ],
+          "benefits": [
+            {
+              "benefitCode": "ทุก 25 บาทรับคะแนนสะสม 2 คะแนน เพื่อนำมาแลกรับของกำนัลหรือไมล์เดินทางจากสายการบินชั้นนำ"
+            },
+            {
+              "benefitCode": "แผนคุ้มครองการรักษาพยาบาลขณะเดินทางในต่างประเทศ วงเงินคุ้มครองสูงสุด 2,000,000 บาทต่อเที่ยว"
+            },
+            {
+              "benefitCode": "แผนพิทักษ์สินค้าที่ซื้อ วงเงินคุ้มครองสูงสุด 400,000 บาทต่อปี"
+            },
+            {
+              "benefitCode": "แผนประกันอุบัติเหตุการเดินทาง วงเงินคุ้มครองสูงสุด 500,000 เหรียญสหรัฐ"
+            },
+            {
+              "benefitCode": "บริการผู้ช่วยส่วนบุคคลตลอด 24 ชั่วโมง"
+            }
+          ],
+          "decision": {
+            "isAutoReject": false,
+            "overrideFlag": false,
+            "recommendedCreditDecision": "",
+            "finalReasonCode": "",
+            "finalAuthorityLevel": 0,
+            "uwEmpowermentLevel": 0
+          }
+        }
+       ],
+       "rulesAudit": [
+         {
+           "metaphorName": "",
+           "rule": "",
+           "timeStamp": ""
+         }
+       ]
+     }
+   }
+ 
